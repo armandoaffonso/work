@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Burgess Pro';
+    src: url('BurgessPro-Semibold.eot');
+    src: url('BurgessPro-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('BurgessPro-Semibold.woff2') format('woff2'),
+        url('BurgessPro-Semibold.woff') format('woff'),
+        url('BurgessPro-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Burgess Pro';
+    src: url('BurgessPro-Regular.eot');
+    src: url('BurgessPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BurgessPro-Regular.woff2') format('woff2'),
+        url('BurgessPro-Regular.woff') format('woff'),
+        url('BurgessPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Burgess Pro';
+    src: url('BurgessPro-SemiboldItalic.eot');
+    src: url('BurgessPro-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('BurgessPro-SemiboldItalic.woff2') format('woff2'),
+        url('BurgessPro-SemiboldItalic.woff') format('woff'),
+        url('BurgessPro-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Burgess Pro';
+    src: url('BurgessPro-BoldItalic.eot');
+    src: url('BurgessPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('BurgessPro-BoldItalic.woff2') format('woff2'),
+        url('BurgessPro-BoldItalic.woff') format('woff'),
+        url('BurgessPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Burgess Pro';
+    src: url('BurgessPro-Bold.eot');
+    src: url('BurgessPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BurgessPro-Bold.woff2') format('woff2'),
+        url('BurgessPro-Bold.woff') format('woff'),
+        url('BurgessPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Burgess Pro';
+    src: url('BurgessPro-Italic.eot');
+    src: url('BurgessPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('BurgessPro-Italic.woff2') format('woff2'),
+        url('BurgessPro-Italic.woff') format('woff'),
+        url('BurgessPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
